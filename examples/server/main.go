@@ -4,8 +4,8 @@ import (
 	"log"
 	"net/http"
 
-	. "github.com/julvo/htmlgo"
-	a "github.com/julvo/htmlgo/attributes"
+	. "github.com/suifengpiao14/htmlgo"
+	a "github.com/suifengpiao14/htmlgo/attributes"
 )
 
 func main() {

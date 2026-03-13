@@ -50,7 +50,7 @@ import (
     "fmt"
 
     . "github.com/julvo/htmlgo"
-    a "github.com/julvo/htmlgo/attributes"
+    a "github.com/suifengpiao14/htmlgo/attributes"
 )
 
 func main() {

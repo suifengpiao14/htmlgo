@@ -8,7 +8,7 @@ import (
     "html/template"
     "bytes"
 
-    a "github.com/julvo/htmlgo/attributes"
+    a "github.com/suifengpiao14/htmlgo/attributes"
 )
 
 type HTML string
