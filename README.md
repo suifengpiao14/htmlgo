@@ -49,7 +49,7 @@ package main
 import (
     "fmt"
 
-    . "github.com/julvo/htmlgo"
+    . "github.com/suifengpiao14/htmlgo"
     a "github.com/suifengpiao14/htmlgo/attributes"
 )
 
